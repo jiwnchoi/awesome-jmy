@@ -7,67 +7,69 @@ import seaborn as sns
 from matplotlib import pyplot as plt
 from matplotlib.ticker import MaxNLocator
 interested: list[str] = [
-  "(주)티맥스에이아이연구소",
-  "(주)마키나락스 기업부설연구소",
-  "(주)뷰노 기업부설연구소",
+  '토스뱅크(주) 기업부설연구소',
   "(주)퓨리오사에이아이 기업부설연구소",
+  "(주)루닛 R&D CENTER",
+  "(주)뷰노 기업부설연구소",
   "하이퍼커넥트 유한책임회사 기업부설연구소",
   "(주)업스테이지 기업부설연구소",
   "(주)크래프톤(KRAFTON, Inc.) AI Research Center",
-  "엔씨소프트부설연구소",
-  "(주)루닛 R&D CENTER",
-  "(주)마인즈앤컴퍼니 기업부설연구소",
   "리벨리온(주) 기업부설연구소",
   "(주)버킷플레이스 기업부설연구소",
+  '(주)컬리 서비스기술연구소',
+  '(주)데이블개인화기술연구소',
+  '(주)로보코리아 기업부설연구소',
+  '데브시스터즈(주)R&D Center',
+  '(주)야놀자 기업부설연구소',
+  '(주)비바리퍼블리카 기업부설연구소',
+  
+  
+  "(주)티맥스에이아이연구소",
+  "(주)마키나락스 기업부설연구소",
+  "엔씨소프트부설연구소",
+  "(주)마인즈앤컴퍼니 기업부설연구소",
   "Tmax R&D Center (주)티맥스가이아 연구소",
   "TmaxR&DCenter㈜티맥스클라우드연구소",
   "(주)스켈터랩스연구소",
   "(주)티맥스비아이 연구소 Tmax R&D Center",
+  '(주)뤼튼테크놀로지스 기업부설연구소',
   "(주)뤼이드 기업부설연구소",
   'Tmax R&D Center (주)티맥스티베로연구소	',
   '(주)네오위즈기업부설연구소',
   '(주)매스프레소기업부설연구소',
+  '(주)크래프트테크놀로지스 기업부설연구소',
   '(주)스캐터랩인공지능연구소',
-  '(주)야놀자 기업부설연구소',
-  '(주)컬리 서비스기술연구소',
   '셀렉트스타(주) 기업부설연구소',
-  '(주)데이블개인화기술연구소',
   '(주)델타엑스 기업부설연구소',
+  '(주)몰로코 기업부설연구소',
   '(주)딥브레인에이아이 인공지능 연구소',
+  '(주)크래프톤(KRAFTON, Inc.) Game Research Center',
   '(주)딥엑스 부설연구소',
-  '(주)로보코리아 기업부설연구소',
   '(주)버즈빌buzzvil institute of technology',
   '(주)로민 기업부설연구소',
+  '(주)두잇 (Doeat) 기업부설연구소',
   '(주)원프레딕트R&D센터',
-  '데브시스터즈(주)R&D Center',
+  '(주)엘박스 기업부설연구소',
   '리디(주) 기업부설연구소',
-  '토스뱅크(주) 기업부설연구소',
+  '(주)코르카 연구센터',
   '(주)구름 기업부설연구소',
   '(주)노타 기업부설연구소',
-  '(주)뤼튼테크놀로지스 기업부설연구소',
+  '웰트(주) 기업부설연구소',
   '(주)뱅크샐러드 MyData 연구소',
-  '(주)비바리퍼블리카 기업부설연구소',
   '(주)쏘카부설R&D연구소',
   '(주)에이슬립 기업부설연구소',
   '(주)크래프톤(KRAFTON, Inc.) PUBG Research Center',
-  '(주)크래프트테크놀로지스 기업부설연구소',
   'Tmax R&D Center (주)티맥스오에스연구소',
   '클로버추얼패션 R&D Center',
   '(주)누비랩 AI R&D Center',
-  '(주)몰로코 기업부설연구소',
   '(주)아트랩 기업부설연구소',
-  '(주)크래프톤(KRAFTON, Inc.) Game Research Center',
   'Tmax R&D Center(주)티맥스소프트 연구소',
   '(주)그렙 기업부설연구소',
   '(주)이스트소프트 A.I. Human Lab (연구소)',
   '(주)코그넥스코리아 기업부설연구소',
-  '(주)두잇 (Doeat) 기업부설연구소',
   '(주)블루홀스튜디오 기업부설연구소',
-  '(주)엘박스 기업부설연구소',
-  '(주)코르카 연구센터',
   '(주)튜닙기업부설연구소',
   '(주)힐링페이퍼 기업부설연구소',
-  '웰트(주) 기업부설연구소',
   '한국축산데이터(주) 연구소',
   "서울대학교 데이터사이언스대학원",
   "서울대학교대학원",
@@ -110,10 +112,13 @@ class vis_data:
         self.degree = DIR_NAME[degree]
         self.dir = os.path.join("prop", DIR_NAME[degree])
         # remove items that "현역 배정인원" == 0
+        print(len(self.data))
         self.data = self.data[self.data["현역 배정인원"] != 0]
+        print(len(self.data))
         
         # remove items that "업체명" not in interested
         self.data = self.data[self.data["업체명"].isin(interested)]
+        print(len(self.data))
         
         os.makedirs(self.dir, exist_ok=True)
         if degree == 1:
@@ -232,7 +237,7 @@ class vis_data:
             )
         plt.xlabel(tar)
         plt.ylabel("빈도")
-        plt.xticks(small_parts.index, rotation=45)
+        # plt.xticks(small_parts.index, rotation=45)
         plt.title(f"{threshold}% 미만 {tar} 분포", fontsize=25)
         plt.savefig(f"{self.dir}/{tar}.png", dpi=300, bbox_inches="tight")
 
@@ -422,7 +427,7 @@ if __name__ == "__main__":
     vd.rank_vis("복무인원")
     vd.rank_vis("편입인원")
     vd.rank_readme()
-    vd.plot_time()
+    # vd.plot_time()
 
     # ----- NOTE: [석사 전문연구요원] ----- #
     vd = vis_data(file_name, data, 1)
