@@ -6,6 +6,7 @@ import pandas as pd
 import seaborn as sns
 from matplotlib import pyplot as plt
 from matplotlib.ticker import MaxNLocator
+from .interested import interested
 
 warnings.filterwarnings("ignore")
 
@@ -35,6 +36,12 @@ class vis_data:
         DIR_NAME = ["ALL", "MS", "PhD"]
         self.degree = DIR_NAME[degree]
         self.dir = os.path.join("prop", DIR_NAME[degree])
+        # remove items that "현역 배정인원" == 0
+        self.data = self.data[self.data["현역 배정인원"] != 0]
+        
+        # remove items that "업체명" not in interested
+        self.data = self.data[self.data["업체명"].isin(interested)]
+        
         os.makedirs(self.dir, exist_ok=True)
         if degree == 1:
             self.data = self.data[
