@@ -12,23 +12,20 @@
 
 </br>
 
-> [**「병역법 제2조 제16항」**](https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EB%B3%91%EC%97%AD%EB%B2%95/%EC%A0%9C2%EC%A1%B0) “전문연구요원”이란 학문과 기술의 연구를 위하여 제36조에 따라 전문연구요원(專門硏究要員)으로 편입되어 해당 전문 분야의 연구업무에 복무하는 사람을 말한다.
+> [**「병역법 제2조 제16항」**](https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EB%B3%91%EC%97%AD%EB%B2%95/%EC%A0%9C2%EC%A1%B0) “전문연구요원”이란 학문과 기술의 연구를 위하여 제36조에 따라 전문연구요원(專門
+> 硏究要員)으로 편입되어 해당 전문 분야의 연구업무에 복무하는 사람을 말한다.
 
-> [**「병역법 제3조 제1항」**](https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EB%B3%91%EC%97%AD%EB%B2%95/%EC%A0%9C3%EC%A1%B0) 대한민국 국민인 남성은 헌법과 이 법에서 정하는 바에 따라 병역의무를 성실히 수행하여야 한다.
-
+> [**「병역법 제3조 제1항」**](https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EB%B3%91%EC%97%AD%EB%B2%95/%EC%A0%9C3%EC%A1%B0) 대한민국 국민인 남성은 헌법과 이 법에서 정하는 바에 따라 병역의무를 성실히 수행
+> 하여야 한다.
 
 <details open>
 <summary align="center">
   <h2> 🎒 석사 전문연구요원 🎒 </h2>
 </summary>
   <div align="center">
-    <img src="prop/MS/연구분야.png">
-    <img src="prop/MS/위치.png">
-    <img src="prop/MS/지방청.png">
     <img src="prop/MS/TOP_30_복무인원.png">
-    <img src="prop/MS/TOP_30_편입인원.png">
     </br>
-    <a href="https://github.com/Zerohertz/awesome-jmy/blob/main/prop/MS/README.md"> 📝 표로 보기 📝 </a>
+    <a href="https://github.com/jiwnchoi/awesome-jmy/blob/main/prop/MS/README.md"> 📝 표로 보기 📝 </a>
   </div>
 </details>
 
@@ -37,13 +34,9 @@
   <h2> 🎓 박사 전문연구요원 🎓 </h2>
 </summary>
   <div align="center">
-    <img src="prop/PhD/연구분야.png">
-    <img src="prop/PhD/위치.png">
-    <img src="prop/PhD/지방청.png">
     <img src="prop/PhD/TOP_30_복무인원.png">
-    <img src="prop/PhD/TOP_30_편입인원.png">
     </br>
-    <a href="https://github.com/Zerohertz/awesome-jmy/blob/main/prop/PhD/README.md"> 📝 표로 보기 📝 </a>
+    <a href="https://github.com/jiwnchoi/awesome-jmy/blob/main/prop/PhD/README.md"> 📝 표로 보기 📝 </a>
   </div>
 </details>
 
@@ -59,7 +52,7 @@
     <img src="prop/ALL/TOP_30_복무인원.png">
     <img src="prop/ALL/TOP_30_편입인원.png">
     </br>
-    <a href="https://github.com/Zerohertz/awesome-jmy/blob/main/prop/ALL/README.md"> 📝 표로 보기 📝 </a>
+    <a href="https://github.com/jiwnchoi/awesome-jmy/blob/main/prop/ALL/README.md"> 📝 표로 보기 📝 </a>
   </div>
 </details>
 
@@ -67,11 +60,11 @@
 
 <div align=center> <h1> 📝 전문연구요원 블로그 📝 </h1> </div>
 
-+ [Zerohertz](https://zerohertz.github.io/tags/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90/)
-+ [harryp](https://harryp.tistory.com/category/Park%27s%20Life/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90)
-+ [remocon33](https://remocon33.tistory.com/m/category/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90)
-+ [cv-learn](https://www.cv-learn.com/tags/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90/)
-+ [jeongmincha](https://jeongmincha.github.io/tags/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90/)
-+ [queez0405](https://queez0405.github.io/tags/#%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90)
-+ [thinkpro](https://thinkpro.tistory.com/tag/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90)
-+ [next-brain](https://next-brain.tistory.com/tag/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90)
+-   [Zerohertz](https://zerohertz.github.io/tags/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90/)
+-   [harryp](https://harryp.tistory.com/category/Park%27s%20Life/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90)
+-   [remocon33](https://remocon33.tistory.com/m/category/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90)
+-   [cv-learn](https://www.cv-learn.com/tags/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90/)
+-   [jeongmincha](https://jeongmincha.github.io/tags/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90/)
+-   [queez0405](https://queez0405.github.io/tags/#%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90)
+-   [thinkpro](https://thinkpro.tistory.com/tag/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90)
+-   [next-brain](https://next-brain.tistory.com/tag/%EC%A0%84%EB%AC%B8%EC%97%B0%EA%B5%AC%EC%9A%94%EC%9B%90)
