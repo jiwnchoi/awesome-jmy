@@ -4,7 +4,7 @@ on:
     workflow_dispatch:
 
 env:
-    WEBHOOK: ${{ secrets.WEBHOOK }}
+    WEBHOOK: ${{ secrets.GH_TOKEN }}
 
 jobs:
     workflow:
