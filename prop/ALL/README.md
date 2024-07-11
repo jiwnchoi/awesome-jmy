@@ -5,7 +5,7 @@
 |업체명|보충역 배정인원|보충역 편입인원|보충역 복무인원|현역 배정인원|현역 편입인원|현역 복무인원|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[한국과학기술원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국과학기술원.png)|0|32|165|328|294|738|
-|[서울대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교대학원.png)|9999|0|135|577|0|657|
+|[서울대학교대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교대학원.png)|9999|25|160|577|66|722|
 |[(주)퓨리오사에이아이 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주퓨리오사에이아이기업부설연구소.png)|9999|0|2|510|2|12|
 |[성균관대학교 컨버젼스연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교컨버젼스연구소.png)|9999|0|1|1|1|13|
 |[(주)마키나락스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주마키나락스기업부설연구소.png)|9999|0|1|510|0|11|
@@ -27,11 +27,12 @@
 |[(주)크래프톤(KRAFTON, Inc.) PUBG Research Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주크래프톤KRAFTON,Inc.PUBGResearchCenter.png)|9999|0|0|1|1|4|
 |[리디(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/리디주기업부설연구소.png)|9999|0|1|1|0|3|
 |[서울대학교차세대융합기술연구원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교차세대융합기술연구원.png)|9999|0|0|1|1|4|
+|[(주)노타 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주노타기업부설연구소.png)|9999|0|1|510|1|2|
 |[(주)데이블개인화기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주데이블개인화기술연구소.png)|9999|0|0|510|0|3|
 |[(주)뤼이드 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주뤼이드기업부설연구소.png)|9999|0|0|510|1|3|
 |[(주)뤼튼테크놀로지스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주뤼튼테크놀로지스기업부설연구소.png)|9999|0|0|510|0|3|
 |[(주)크래프트테크놀로지스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주크래프트테크놀로지스기업부설연구소.png)|9999|0|1|510|1|2|
-|[(주)노타 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주노타기업부설연구소.png)|9999|0|1|510|0|1|
+|[서울대학교 데이터사이언스대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교데이터사이언스대학원.png)|9999|0|0|577|2|3|
 |[(주)매스프레소기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주매스프레소기업부설연구소.png)|9999|0|0|510|0|2|
 |[(주)버즈빌buzzvil institute of technology](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주버즈빌buzzvilinstituteoftechnology.png)|9999|0|0|510|0|2|
 |[(주)아트랩 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주아트랩기업부설연구소.png)|9999|0|1|510|0|1|
@@ -41,7 +42,6 @@
 |[(주)쏘카부설R&D연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주쏘카부설R&D연구소.png)|9999|0|0|2|0|1|
 |[(주)엘박스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주엘박스기업부설연구소.png)|9999|0|0|510|1|1|
 |[(주)코그넥스코리아 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주코그넥스코리아기업부설연구소.png)|9999|0|1|2|0|0|
-|[서울대학교 데이터사이언스대학원](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/서울대학교데이터사이언스대학원.png)|9999|0|0|577|0|1|
 |[성균관대학교 AI-Digital Health Care 연구센터](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/성균관대학교AI-DigitalHealthCare연구센터.png)|9999|0|0|1|1|1|
 |[한국축산데이터(주) 연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/한국축산데이터주연구소.png)|9999|1|1|510|0|0|
 |[(주)두잇 (Doeat) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주두잇Doeat기업부설연구소.png)|9999|0|0|510|0|0|

@@ -23,11 +23,11 @@
 |[(주)스캐터랩인공지능연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주스캐터랩인공지능연구소.png)|9999|0|0|510|0|4|
 |[(주)크래프톤(KRAFTON, Inc.) PUBG Research Center](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주크래프톤KRAFTON,Inc.PUBGResearchCenter.png)|9999|0|0|1|1|4|
 |[리디(주) 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/리디주기업부설연구소.png)|9999|0|1|1|0|3|
+|[(주)노타 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주노타기업부설연구소.png)|9999|0|1|510|1|2|
 |[(주)데이블개인화기술연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주데이블개인화기술연구소.png)|9999|0|0|510|0|3|
 |[(주)뤼이드 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주뤼이드기업부설연구소.png)|9999|0|0|510|1|3|
 |[(주)뤼튼테크놀로지스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주뤼튼테크놀로지스기업부설연구소.png)|9999|0|0|510|0|3|
 |[(주)크래프트테크놀로지스 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주크래프트테크놀로지스기업부설연구소.png)|9999|0|1|510|1|2|
-|[(주)노타 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주노타기업부설연구소.png)|9999|0|1|510|0|1|
 |[(주)매스프레소기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주매스프레소기업부설연구소.png)|9999|0|0|510|0|2|
 |[(주)버즈빌buzzvil institute of technology](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주버즈빌buzzvilinstituteoftechnology.png)|9999|0|0|510|0|2|
 |[(주)아트랩 기업부설연구소](https://github.com/Zerohertz/awesome-jmy/blob/main/prop/time/주아트랩기업부설연구소.png)|9999|0|1|510|0|1|
